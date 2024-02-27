@@ -33,7 +33,7 @@
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     ![Xampp](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp&logoColor=ff7b00)&nbsp;
-    ![Wamp](https://img.shields.io/badge/-Wamp-05122A?style=flat&logo=wamp&logoColor=fc0362)&nbsp;
+    ![Wamp](https://img.shields.io/badge/-Wamp%20Server-05122A?style=flat&logo=wampserver&logoColor=fc0362)&nbsp;
 
 - 📫 How to reach me
   - 
