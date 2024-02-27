@@ -1,7 +1,6 @@
 ## Hi! What made you go here!?
 
-### I'm @alcafam. An Enthusiastic, focused, and highly-self motivated Developer seeking an opportunity to contribute in institutions by
- implementing concepts, knowledge, and methodologies learnt thereby adding value for the organization
+### I'm @alcafam. An Enthusiastic, focused, and highly-self motivated Developer seeking an opportunity to contribute in institutions by implementing concepts, knowledge, and methodologies learnt thereby adding value for the organization
 
 - 🛠 Current Tech Stack:
   --- 
