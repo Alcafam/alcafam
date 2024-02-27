@@ -33,7 +33,7 @@
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     ![Xampp](https://img.shields.io/badge/-Xampp-05122A?style=flat&logo=xampp&logoColor=ff7b00)&nbsp;
-    ![Wamp](https://img.shields.io/badge/-Wamp%20Server-05122A?style=flat&logo=wampserver&logoColor=fc0362)&nbsp;
+    ![Wamp](https://img.shields.io/badge/-Wamp%20Server-05122A?style=flat&logo=WampServer&logoColor=fc0362)&nbsp;
 
 - 📫 How to reach me
   - 
@@ -44,8 +44,3 @@
   - **Emmeness Ecommerce** (Fullstack MVC Codeigniter) [Live Demo](https://youtu.be/JIoJMrvwYQ8) || [Repository](https://github.com/Alcafam/e-commerce-php)
   - **2 Player Tetris** (A Socket.io realtime multiplayer game) [Live Demo](https://youtu.be/e-_3pua57Mk) || [Repository](https://github.com/Alcafam/2_Player_Tetris)
 
-
-<!---
-ceejpineda/ceejpineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
