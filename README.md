@@ -40,7 +40,7 @@
   - Gmail: galinganmarjy61@gmail.com
 
 - ⚒️ Check out my projects!
-  - **Daft Express MVC** (An Express.js based MVC Framework made from scratch) [Repository](https://github.com/Alcafam/Draft_Express_MVC)
+  - **Express MVC** (An Express.js based MVC Framework example) [Repository](https://github.com/Alcafam/Draft_Express_MVC)
   - **E-commerce Website** (Fullstack MVC Codeigniter) [Live Demo](https://youtu.be/JIoJMrvwYQ8) || [Repository](https://github.com/Alcafam/e-commerce-php)
   - **2 Player Tetris** (A Socket.io realtime multiplayer game) [Live Demo](https://youtu.be/e-_3pua57Mk) || [Repository](https://github.com/Alcafam/2_Player_Tetris)
   - **Street Fighter** (A Socket.io realtime multiplayer game) [Live Demo](https://youtu.be/BbxFuuM5-Cw) || [Repository](https://github.com/Alcafam/Street_Fighter).
